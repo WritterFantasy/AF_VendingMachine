@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="AddCredit Msg.lvclass" Type="LVClass" URL="../../Coins Messages/AddCredit Msg/AddCredit Msg.lvclass"/>
 		<Item Name="Cancel Msg.lvclass" Type="LVClass" URL="../../Coins Messages/Cancel Msg/Cancel Msg.lvclass"/>
+		<Item Name="CancelPurchase Msg.lvclass" Type="LVClass" URL="../../Coins Messages/CancelPurchase Msg/CancelPurchase Msg.lvclass"/>
 		<Item Name="CurrencyUpdate Msg.lvclass" Type="LVClass" URL="../../Coins Messages/CurrencyUpdate Msg/CurrencyUpdate Msg.lvclass"/>
 		<Item Name="Initialize Msg.lvclass" Type="LVClass" URL="../../Coins Messages/Initialize Msg/Initialize Msg.lvclass"/>
 		<Item Name="Insert Coin Msg.lvclass" Type="LVClass" URL="../../Coins Messages/Insert Coin Msg/Insert Coin Msg.lvclass"/>

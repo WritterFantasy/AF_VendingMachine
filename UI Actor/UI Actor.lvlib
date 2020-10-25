@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="AddCredit Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/AddCredit Msg/AddCredit Msg.lvclass"/>
+		<Item Name="CancelPurchase Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/CancelPurchase Msg/CancelPurchase Msg.lvclass"/>
 	</Item>
 	<Item Name="UI Actor.lvclass" Type="LVClass" URL="../UI Actor.lvclass"/>
 </Library>

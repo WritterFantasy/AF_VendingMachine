@@ -5,8 +5,10 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="AddCredit Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/AddCredit Msg/AddCredit Msg.lvclass"/>
+		<Item Name="CancelPurchase Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/CancelPurchase Msg/CancelPurchase Msg.lvclass"/>
 		<Item Name="Initialization Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/Initialization Msg/Initialization Msg.lvclass"/>
 		<Item Name="ResetCredit Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/ResetCredit Msg/ResetCredit Msg.lvclass"/>
+		<Item Name="UpdateChange Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/UpdateChange Msg/UpdateChange Msg.lvclass"/>
 		<Item Name="UpdateLanguage Msg.lvclass" Type="LVClass" URL="../../Messages Actor Messages/UpdateLanguage Msg/UpdateLanguage Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages Actor.lvclass" Type="LVClass" URL="../Messages Actor.lvclass"/>
