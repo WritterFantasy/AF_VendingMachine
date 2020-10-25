@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="ButtonLanguage Msg.lvclass" Type="LVClass" URL="../../Prooduct Actor Messages/ButtonLanguage Msg/ButtonLanguage Msg.lvclass"/>
 		<Item Name="Initialization Msg.lvclass" Type="LVClass" URL="../../Prooduct Actor Messages/Initialization Msg/Initialization Msg.lvclass"/>
+		<Item Name="ProductRequest Msg.lvclass" Type="LVClass" URL="../../Prooduct Actor Messages/ProductRequest Msg/ProductRequest Msg.lvclass"/>
 		<Item Name="UpdateData Msg.lvclass" Type="LVClass" URL="../../Prooduct Actor Messages/UpdateData Msg/UpdateData Msg.lvclass"/>
 		<Item Name="UpdateList Msg.lvclass" Type="LVClass" URL="../../Prooduct Actor Messages/UpdateList Msg/UpdateList Msg.lvclass"/>
 	</Item>

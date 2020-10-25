@@ -27,6 +27,7 @@
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Messages Actor.lvlib" Type="Library" URL="../Messages Actor/Messages Actor.lvlib"/>
 		<Item Name="LabelLanguageUpdate.vi" Type="VI" URL="../LabelLanguageUpdate.vi"/>
+		<Item Name="DecrementInventory.vi" Type="VI" URL="../DecrementInventory.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
