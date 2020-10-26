@@ -21,13 +21,13 @@
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="ReadDB and update list.vi" Type="VI" URL="../Prooduct Actor/ReadDB and update list.vi"/>
 			<Item Name="UpdateButtons.vi" Type="VI" URL="../Coins/UpdateButtons.vi"/>
+			<Item Name="LabelLanguageUpdate.vi" Type="VI" URL="../LabelLanguageUpdate.vi"/>
+			<Item Name="DecrementInventory.vi" Type="VI" URL="../DecrementInventory.vi"/>
 		</Item>
 		<Item Name="Prooduct Actor.lvlib" Type="Library" URL="../Prooduct Actor/Prooduct Actor.lvlib"/>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
-		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Messages Actor.lvlib" Type="Library" URL="../Messages Actor/Messages Actor.lvlib"/>
-		<Item Name="LabelLanguageUpdate.vi" Type="VI" URL="../LabelLanguageUpdate.vi"/>
-		<Item Name="DecrementInventory.vi" Type="VI" URL="../DecrementInventory.vi"/>
+		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
